@@ -12,3 +12,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.app-content {
+  padding: 0 50px;
+}
+
+.app-logo {
+  height: 50px;
+  float: left;
+}
+
+
+.app-header {
+  background: #FFF;
+  border-bottom: 1px solid #999;
+  justify-content: center;
+  display: flex;
+}
+
+
+.app-headline {
+  /* margin-bottom: 0; */
+  display: inline-block;
+}

@@ -1,0 +1,161 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render with default props 1`] = `
+<div
+  className="ant-skeleton ant-skeleton-active"
+>
+  <div
+    className="ant-skeleton-content"
+  >
+    <h3
+      className="ant-skeleton-title"
+      style={
+        Object {
+          "width": "38%",
+        }
+      }
+    />
+    <ul
+      className="ant-skeleton-paragraph"
+    >
+      <li
+        style={
+          Object {
+            "width": undefined,
+          }
+        }
+      />
+      <li
+        style={
+          Object {
+            "width": undefined,
+          }
+        }
+      />
+      <li
+        style={
+          Object {
+            "width": undefined,
+          }
+        }
+      />
+      <li
+        style={
+          Object {
+            "width": undefined,
+          }
+        }
+      />
+      <li
+        style={
+          Object {
+            "width": undefined,
+          }
+        }
+      />
+      <li
+        style={
+          Object {
+            "width": undefined,
+          }
+        }
+      />
+      <li
+        style={
+          Object {
+            "width": undefined,
+          }
+        }
+      />
+      <li
+        style={
+          Object {
+            "width": undefined,
+          }
+        }
+      />
+      <li
+        style={
+          Object {
+            "width": undefined,
+          }
+        }
+      />
+      <li
+        style={
+          Object {
+            "width": "61%",
+          }
+        }
+      />
+    </ul>
+  </div>
+</div>
+`;
+
+exports[`render with full props 1`] = `
+<article
+  className="article"
+>
+  <header
+    className="article-header"
+  >
+    <a
+      className="article-back-button"
+      href="/"
+      onClick={[Function]}
+    >
+      <i
+        className="anticon anticon-arrow-left"
+      >
+        <svg
+          aria-hidden="true"
+          className=""
+          data-icon="arrow-left"
+          fill="currentColor"
+          height="1em"
+          viewBox="64 64 896 896"
+          width="1em"
+        >
+          <path
+            d="M872 474H286.9l350.2-304c5.6-4.9 2.2-14-5.2-14h-88.5c-3.9 0-7.6 1.4-10.5 3.9L155 487.8a31.96 31.96 0 0 0 0 48.3L535.1 866c1.5 1.3 3.3 2 5.2 2h91.5c7.4 0 10.8-9.2 5.2-14L286.9 550H872c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+          />
+        </svg>
+      </i>
+       Back
+    </a>
+    <h2
+      className="article-headline"
+    >
+      ccc
+    </h2>
+    <h3
+      className="article-source"
+    >
+      Source: 
+      abc
+    </h3>
+  </header>
+  <div
+    className="article-carousel"
+  >
+    <img
+      alt="ccc"
+      className="article-image"
+      src="ccc"
+    />
+  </div>
+  <p
+    className="article-content"
+  >
+    123
+  </p>
+  <a
+    rel="noopener noreferrer"
+    target="_blank"
+    title="ccc"
+  >
+    Read more...
+  </a>
+</article>
+`;
