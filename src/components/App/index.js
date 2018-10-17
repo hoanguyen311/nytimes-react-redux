@@ -25,7 +25,7 @@ class App extends Component {
 
   render() {
     return (
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <Layout>
           <Header className="app-header">
             <h1 className="app-headline">
