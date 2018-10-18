@@ -80,6 +80,10 @@ class NewsList extends Component {
 
     return (
       <List
+        className="news-list"
+        pagination={{
+          pageSize: 5
+        }}
         size="large"
         itemLayout="vertical"
         dataSource={dataSource}
