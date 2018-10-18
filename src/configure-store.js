@@ -5,7 +5,12 @@ import sagas from './sagas';
 
 export default function() {
   const sagaMiddleware = createSagaMiddleware();
-  const composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
+  let composeEnhancers = compose;
+
+  if (process.env.NODE_ENV === 'development' && window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__) {
+    composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__
+  }
+
   const store = createStore(
     reducer,
     composeEnhancers(
