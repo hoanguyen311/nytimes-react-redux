@@ -1,7 +1,7 @@
 {
-  "main.css": "/nytimes-react-redux/static/css/main.f6ddf046.chunk.css",
-  "main.js": "/nytimes-react-redux/static/js/main.26a45123.chunk.js",
-  "main.js.map": "/nytimes-react-redux/static/js/main.26a45123.chunk.js.map",
+  "main.css": "/nytimes-react-redux/static/css/main.8c8d4997.chunk.css",
+  "main.js": "/nytimes-react-redux/static/js/main.7a671e27.chunk.js",
+  "main.js.map": "/nytimes-react-redux/static/js/main.7a671e27.chunk.js.map",
   "static/css/1.0af0990f.chunk.css": "/nytimes-react-redux/static/css/1.0af0990f.chunk.css",
   "static/js/1.f74f5538.chunk.js": "/nytimes-react-redux/static/js/1.f74f5538.chunk.js",
   "static/js/1.f74f5538.chunk.js.map": "/nytimes-react-redux/static/js/1.f74f5538.chunk.js.map",
@@ -9,8 +9,8 @@
   "runtime~main.js.map": "/nytimes-react-redux/static/js/runtime~main.ada6d107.js.map",
   "static/css/1.0af0990f.chunk.css.map": "/nytimes-react-redux/static/css/1.0af0990f.chunk.css.map",
   "static/media/nytlogo.png": "/nytimes-react-redux/static/media/nytlogo.47b2d9e4.png",
-  "static/css/main.f6ddf046.chunk.css.map": "/nytimes-react-redux/static/css/main.f6ddf046.chunk.css.map",
+  "static/css/main.8c8d4997.chunk.css.map": "/nytimes-react-redux/static/css/main.8c8d4997.chunk.css.map",
   "index.html": "/nytimes-react-redux/index.html",
-  "precache-manifest.39c647a660db152dd8229ca53e070898.js": "/nytimes-react-redux/precache-manifest.39c647a660db152dd8229ca53e070898.js",
+  "precache-manifest.f25987894b73552da048d10725107e99.js": "/nytimes-react-redux/precache-manifest.f25987894b73552da048d10725107e99.js",
   "service-worker.js": "/nytimes-react-redux/service-worker.js"
 }
