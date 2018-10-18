@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/nytimes-react-redux/static/js/runtime~main.ada6d107.js"
   },
   {
-    "revision": "7a671e27c643da15bac3",
-    "url": "/nytimes-react-redux/static/js/main.7a671e27.chunk.js"
+    "revision": "9cf4dde6939ac99a2809",
+    "url": "/nytimes-react-redux/static/js/main.9cf4dde6.chunk.js"
   },
   {
     "revision": "f74f5538744718661613",
     "url": "/nytimes-react-redux/static/js/1.f74f5538.chunk.js"
   },
   {
-    "revision": "7a671e27c643da15bac3",
+    "revision": "9cf4dde6939ac99a2809",
     "url": "/nytimes-react-redux/static/css/main.8c8d4997.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/nytimes-react-redux/static/css/1.0af0990f.chunk.css"
   },
   {
-    "revision": "4352964b2240c5fe7605a4aaef9dc17e",
+    "revision": "7046a7e8d5ac265e0831eca2437a63fe",
     "url": "/nytimes-react-redux/index.html"
   }
 ];
